@@ -2,12 +2,5 @@
   "name": "cell-design",
   "version": "1.0.0",
   "description": "Cellular design proof of concept",
-  "main": "app.js",
-  "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html"
-  },
-  "devDependencies": {
-    "parcel": "^2.0.0"
-  }
+  "scripts": {}
 }
